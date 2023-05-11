@@ -436,7 +436,7 @@ sudo  计划任务都无法提权
 
 
 
-## 3.1 内核提权
+## 3.1 提权方式一：内核提权
 
 kali 本地搜
 
@@ -520,4 +520,6 @@ cat root.txt
 b2b17036da1de94cfb024540a8e7075a
 root@ubuntu:/root#
 ```
+
+
 
